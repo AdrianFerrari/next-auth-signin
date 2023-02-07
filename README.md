@@ -6,5 +6,5 @@ It's designed with NextJS, Next-Auth, Typescript, Tailwind and MongoDB to persis
 
 ## Screenshots
 
-<img src="screenshots/screenshot_1.png" alt="log in" style="display:inline-block; max-width:300px"/>
-<img src="screenshots/screenshot_2.png" alt="user page" style="display:inline-block; max-width:300px"/>
+<img src="screenshots/screenshot_1.png" alt="log in" width="300px"/>
+<img src="screenshots/screenshot_2.png" alt="user page" width="300px"/>
